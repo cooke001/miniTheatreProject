@@ -35,9 +35,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-<<<<<<< HEAD
-#*.sldprt
-#*.sldasm
-#*.SLDPRT
-#*.SLDASM
+#*.sldprt#
+#*.sldasm#
+#*.SLDPRT#
+#*.SLDASM#
 /AUC drawings/*
