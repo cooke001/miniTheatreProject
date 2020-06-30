@@ -45,5 +45,5 @@ I printed this in PLA with an ender 5 plus, using these settings:
 8. Push wires into gap where body meets yoke.
 9. Add LED lens
 10. Push other body piece into place ensuring LED mates with lens - this is tricky but just push it and it'll probably not break.
-11. Solder wires together as appropriate to make '5V','GND','LEDSignal','panSignal' and 'tiltSignal'.
+11. Solder wires together as appropriate to make `5V`,`GND`,`LEDSignal`,`panSignal` and `tiltSignal`.
 12. Add some heatshrink and connectors as you want - I used some jumper wires for ease but may end up putting a mini connector on soon.
