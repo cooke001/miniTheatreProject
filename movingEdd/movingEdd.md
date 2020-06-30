@@ -12,6 +12,7 @@ This is controlled via an arduino, however it's expected that this may move to a
 |SG90 Servo Motor|2|One with wings chopped off|
 |Adafruit Pixie|1|I had to trim this down however will fix this at some point...|
 |Hookup wire|3|3 different colours for ease when routing through the yoke|
+|30 degree lens|1|I used [this one](https://www.ebay.co.uk/itm/10pcs-30-degree-led-Lens-for-1W-3W-5W-Hight-Power-LED-with-Holder-FOHGUK/193228555050?hash=item2cfd51c32a:g:HGMAAOSwmUdUXbOJ) and snapped off the black plastic|
 |10mm OD/ 3mm ID bearing|8|I used this part from RS - [6189856](https://uk.rs-online.com/web/p/ball-bearings/6189856/)|
 
 ## Printing
