@@ -2,6 +2,10 @@
 
 This is the project repository for the miniature moving head light as part of the [miniTheatreProject](https://github.com/cooke001/miniTheatreProject).
 
+It can also be found on thingiverse [here](https://www.thingiverse.com/thing:4511441).
+
+<img src="moverFull.jpeg" width="400" >
+
 The moving head light can pan and tilt +-90 degrees from home, and uses an adafruit pixel as a light source.
 This is controlled via an arduino, however it's expected that this may move to an ESP board - this can all be found at [miniTheatreProject](https://github.com/cooke001/miniTheatreProject).
 
